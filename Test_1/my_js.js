@@ -1,7 +1,7 @@
-var one = 'HELLO_+JQuery__??!!!!'
+var one = 'HELLO_+JQuery__??!!!!';
 
 
-console.log(one)
+console.log(one);
 //document.getElementById('message').innerHTML = one;
 //alert('Hello!!!!?');
 
