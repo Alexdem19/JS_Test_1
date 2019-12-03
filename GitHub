@@ -1,2 +1,9 @@
 Alexdem19	!A;sldk0
 ad07217@yandex.ru	!A;sldk0
+
+
+git add -A
+git commit -a -m " номер коммита"
+
+
+git push -u JS_Test_1 master
